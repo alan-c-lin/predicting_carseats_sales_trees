@@ -17,7 +17,7 @@ This project explores the `Carseats` dataset from the ISLP package to model and 
 
 ## Requirements
 
-- Python (≥ 3.8)
+- Python (3.10.16 recommended)
 - Jupyter Notebook / Jupyter Lab
 - Python packages: `numpy`, `pandas`, `matplotlib`, `scikit-learn`, `ISLP`
 
