@@ -21,7 +21,10 @@ This project explores the `Carseats` dataset from the ISLP package to model and 
 - Jupyter Notebook / Jupyter Lab
 - Python packages: `numpy`, `pandas`, `matplotlib`, `scikit-learn`, `ISLP`
 
-You can install the required packages using: `pip install numpy pandas matplotlib scikit-learn ISLP`
+You can install the required packages using: 
+```{bash}
+pip install numpy pandas matplotlib scikit-learn ISLP
+```
 
 ## How to Use
 
